@@ -1,7 +1,7 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import Quiz from './Quiz.jsx';
-import './styles.css';
+import './styles.scss';
 
 const quizQuestion = {
   question: 'Какой метод массива создаёт новый массив из элементов, прошедших проверку?',
